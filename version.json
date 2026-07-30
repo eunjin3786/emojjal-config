@@ -1,1 +1,1 @@
-{ "minimumVersion": "0.0.0" }
+{ "blocked": { "title": "테스트 차단", "message": "blocked 화면 테스트입니다.", "linkURL": "https://example.com", "linkLabel": "링크 테스트" } }
