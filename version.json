@@ -1,1 +1,1 @@
-{ "minimumVersion": "0.0.0" }
+{ "notice": { "id": "test-1", "title": "테스트 공지", "message": "이건 원격 설정 공지 팝업 테스트입니다." } }
